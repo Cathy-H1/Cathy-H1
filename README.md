@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- 访问量 -->
+<img height="0" width="0" src="https://profile-counter.glitch.me/Cathy-H20/count.svg" />
 
-<!--
-**Cathy-H1/Cathy-H1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🚒 About me
 
-Here are some ideas to get you started:
+<!-- - 🏫 I’m from `LU`. -->
+- ✏️ Online Profiles: [`CSDN`](https://blog.csdn.net/2401_87569451?spm=1000.2115.3001.5343) [`Linkedln`](https://www.linkedin.com/in/kaixi-hao-88388a187/)
+- 🎓 Education: MSc in Computer Science, Lingnan University (Hong Kong)
+- 🔍 Target Position: Algorithm Engineer
+<!-- - 📫 How to reach me & WeChat: h13701929018 -->
 
-- 🔭 I’m currently working on ...
+### 🏆 Academic & Honors
+
+- 🏅 Competition: [`Silver Award in AI Patent Category at the 11th SVIIF`](https://www.ln.edu.hk/news/press-releases/20250811/lingnan-university-s-debut-at-silicon-valley-international-invention-festival-wins-record14-awards-and-becomes-hong-kong-s-top-winner)	
+- 📝 Paper: [`A novel efficient personalized movie recommendation system with user-selectable algorithms and dynamic hybrid optimization`](https://ieeexplore.ieee.org/abstract/document/11149768)
+- 📜 Patents: [`Intelligent Navigation Device, Method, Apparatus, Electronic Device, Storage Medium, and Product`], [`Multimedia Information Processing Method and Related Equipment`]
+
+
+
+
+<!-- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... 
 -->
