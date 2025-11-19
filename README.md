@@ -16,7 +16,7 @@
 
 🔥 Project
 
-- 🎯 [`fine-tuned GLIP`](https://github.com/Wscats/compile-hero](https://github.com/Cathy-H1/Fine-tuned-Multimodal-GLIP) multimodal fine-tuned GLIP For CTA detection.
+- 🎯 [`fine-tuned GLIP`](https://github.com/Cathy-H1/Fine-tuned-Multimodal-GLIP) multimodal fine-tuned GLIP For CTA detection.
 
 
 
