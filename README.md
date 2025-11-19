@@ -15,6 +15,10 @@
 - 📝 Paper: [`A novel efficient personalized movie recommendation system with user-selectable algorithms and dynamic hybrid optimization`](https://ieeexplore.ieee.org/abstract/document/11149768)
 - 📜 Patents: [`Intelligent Navigation Device, Method, Apparatus, Electronic Device, Storage Medium, and Product`], [`Multimedia Information Processing Method and Related Equipment`]
 
+### 🔥 Project
+
+- 🎯 [`fine-tuned GLIP`](https://github.com/Wscats/compile-hero](https://github.com/Cathy-H1/Fine-tuned-Multimodal-GLIP) multimodal fine-tuned GLIP For CTA detection.
+
 
 
 
